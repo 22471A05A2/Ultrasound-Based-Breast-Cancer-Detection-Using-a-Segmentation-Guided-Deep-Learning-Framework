@@ -34,11 +34,18 @@ This deep learning project classifies breast ultrasound images into benign, mali
 
 ## License
 
-This project is not licensed for reuse or modification.
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**  
+[View full license](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+### Summary:
+- **Attribution (BY):** You must give appropriate credit to the author.
+- **NonCommercial (NC):** You may not use the material for commercial purposes.
+- **NoDerivatives (ND):** You may not modify or create derivative works from this material.
 
 © 2025 Srivarsha Kolisetty  
-All rights reserved. This code is publicly visible for educational and academic purposes only.  
-Do not reuse, redistribute, or modify without permission.
+This project is publicly visible for academic and educational purposes only.  
+Do not reuse, redistribute, or modify without written permission.
 
 ---
 
